@@ -1,7 +1,7 @@
 # Bone-Fracture-Classification
 
 ## 📄Summary
-It's  a CNN model that classifies normal bones and fracture bones. Here are the methods I have tried to improve model accuracy.
+It's  a CNN model that classifies normal bones and fracture bones. Here are the methods I have tried to improve model accuracy.  
 Train Data Set : 320 Validation Data Set : 33 Test Data Set : 90
 
 ## Normal Bone
